@@ -30,6 +30,10 @@ The dates come from official technical reports, API providers, GitHub issues, an
 | Gemini 1.0 Pro | Google | 2023.02 | [Source](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/models) |
 | Gemini 1.5 Pro | Google | 2024.05 | [Source](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/models) |
 | Gemini 1.5 Flash | Google | 2024.05 | [Source](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/models) |
+| Gemini 2.0 Flash | Google | 2024.06 | [Source](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/models) |
+| Gemini 2.0 Flash Thinking | Google | 2024.05 | [Source](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/models) |
+| Gemini 2.0 Flash-Lite | Google | 2025.01 | [Source](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/models) | 
+| Gemini 2.0 Pro Experimental | Google | 2025.01 | [Source](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/models) |
 
 ### Anthropic Models
 | Model Name | Company | Cut-off Date | Source |
@@ -42,6 +46,7 @@ The dates come from official technical reports, API providers, GitHub issues, an
 | Claude 3 Haiku | Anthropic | 2023.08 | [Source](https://docs.anthropic.com/en/docs/about-claude/models) |
 | Claude 3.5 Sonnet | Anthropic | 2024.04 | [Source](https://docs.anthropic.com/en/docs/about-claude/models) |
 | Claude 3.5 Haiku | Anthropic | 2024.07 | [Source](https://docs.anthropic.com/en/docs/about-claude/models) |
+| Claude 3.7 Sonnet | Anthropic | 2024.11 | [Source](https://docs.anthropic.com/en/docs/about-claude/models) |
 
 ### Meta Models
 | Model Name | Company | Cut-off Date | Source |
@@ -71,6 +76,8 @@ The dates come from official technical reports, API providers, GitHub issues, an
 | DeepSeek-LLM-7B/67B-Chat | DeepSeek | 2023.05 | [Source](https://arxiv.org/pdf/2401.02954v1) |
 | DeepSeek-Coder | DeepSeek | 2023.03 | [Source](https://github.com/deepseek-ai/DeepSeek-Coder/issues/89) |
 | DeepSeek-Coder-V2         | DeepSeek  | 2023.11       | [Source](https://github.com/deepseek-ai/DeepSeek-Coder-V2/issues/1)                                                       |
+| DeepSeek-V3 | DeepSeek | 2024.12 | [Source](https://explodingtopics.com/blog/list-of-llms)
+| DeepSeek-R1 | DeepSeek | 2025.01 | [Source](https://explodingtopics.com/blog/list-of-llms)
 
 
 ### Unknown Models
