@@ -21,8 +21,16 @@ The dates come from official technical reports, API providers, GitHub issues, an
 | GPT-4o (2024-08-06) | OpenAI | 2023.10 | [Source](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models?tabs=python-secure%2Cglobal-standard%2Cstandard-chat-completions#gpt-35-turbo-model-availability) |
 | GPT-4o mini (2024-07-18) | OpenAI | 2023.10 | [Source](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models?tabs=python-secure%2Cglobal-standard%2Cstandard-chat-completions#gpt-35-turbo-model-availability) |
 | GPT-4o-realtime-preview (2024-10-01-preview) | OpenAI | 2023.10 | [Source](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models?tabs=python-secure%2Cglobal-standard%2Cstandard-chat-completions#gpt-35-turbo-model-availability) |
+| GPT-4o Realtime (gpt-4o-realtime-preview-2024-12-17) | OpenAI | 2023.09.30 | [Source](https://platform.openai.com/docs/models/gpt-4o-realtime-preview) |
+| GPT-4.1 (gpt-4.1-2025-04-14) | OpenAI | 2024.05.31 | [Source](https://platform.openai.com/docs/models/gpt-4.1) |
+| GPT-4.1 mini (gpt-4.1-mini-2025-04-14) | OpenAI | 2024.05.31 | [Source](https://platform.openai.com/docs/models/gpt-4.1-mini) |
 | OpenAI o1-preview (2024-09-12) | OpenAI | 2023.10 | [Source](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models?tabs=python-secure%2Cglobal-standard%2Cstandard-chat-completions#gpt-35-turbo-model-availability) |
 | OpenAI o1-mini (2024-09-12) | OpenAI | 2023.10 | [Source](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models?tabs=python-secure%2Cglobal-standard%2Cstandard-chat-completions#gpt-35-turbo-model-availability) |
+| o1 (o1-2024-12-17) | OpenAI | 2023.09.30 | [Source](https://platform.openai.com/docs/models/o1) |
+| o3 (o3-2025-04-16) | OpenAI | 2024.05.31 | [Source](https://platform.openai.com/docs/models/o3) |
+| o4-mini (o4-mini-2025-04-16) | OpenAI | 2024.05.31 | [Source](https://platform.openai.com/docs/models/o4-mini) |
+
+
 
 ### Google Models
 | Model Name | Company | Cut-off Date | Source |
