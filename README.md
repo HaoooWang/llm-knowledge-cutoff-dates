@@ -115,3 +115,7 @@ The dates come from official technical reports, API providers, GitHub issues, an
 | --- | --- | --- | --- |
 | Mistral series            | Mistral AI| unknown       |                                                                                                                           |
 | Grok-*                    | xAI       | unknown       |   
+
+
+## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=HaoooWang/llm-knowledge-cutoff-dates&type=Date)](https://www.star-history.com/#HaoooWang/llm-knowledge-cutoff-dates&Date)
