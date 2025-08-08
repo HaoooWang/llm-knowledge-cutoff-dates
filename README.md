@@ -26,8 +26,7 @@ The dates come from official technical reports, API providers, GitHub issues, an
 | GPT-4o (2024-05-13) | OpenAI | 2023.10 | [Source](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models?tabs=python-secure%2Cglobal-standard%2Cstandard-chat-completions#gpt-35-turbo-model-availability) |
 | GPT-4o (2024-08-06) | OpenAI | 2023.10 | [Source](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models?tabs=python-secure%2Cglobal-standard%2Cstandard-chat-completions#gpt-35-turbo-model-availability) |
 | GPT-4o mini (2024-07-18) | OpenAI | 2023.10 | [Source](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models?tabs=python-secure%2Cglobal-standard%2Cstandard-chat-completions#gpt-35-turbo-model-availability) |
-| GPT-4o-realtime-preview (2024-10-01-preview) | OpenAI | 2023.10 | [Source](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models?tabs=python-secure%2Cglobal-standard%2Cstandard-chat-completions#gpt-35-turbo-model-
-availability) |
+| GPT-4o-realtime-preview (2024-10-01-preview) | OpenAI | 2023.10 | [Source](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models?tabs=python-secure%2Cglobal-standard%2Cstandard-chat-completions#gpt-35-turbo-model-availability) |
 | GPT-4o Realtime (gpt-4o-realtime-preview-2024-12-17) | OpenAI | 2023.09.30 | [Source](https://platform.openai.com/docs/models/gpt-4o-realtime-preview) |
 | GPT-4.1 | OpenAI | 2024.06.01 | [Source](https://platform.openai.com/docs/models/gpt-4.1) |
 | GPT-4.1-mini  | OpenAI | 2024.06.01 | [Source](https://platform.openai.com/docs/models/gpt-4.1-mini) |
