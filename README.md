@@ -71,6 +71,7 @@ The dates come from official technical reports, API providers, GitHub issues, an
 | Claude 3.7 Sonnet | Anthropic | 2024.11 | [Source](https://docs.anthropic.com/en/docs/about-claude/models) |
 | Claude 4 Opus | Anthropic | 2025.03 | [Source](https://docs.anthropic.com/en/docs/about-claude/models/overview) |
 | Claude 4 Sonnet | Anthropic | 2025.03 | [Source](https://docs.anthropic.com/en/docs/about-claude/models/overview) |
+| Claude 4.5 Sonnet | Anthropic | 2025.07 | [Source](https://docs.anthropic.com/en/docs/about-claude/models/overview) |
 
 
 # Meta Models
