@@ -42,6 +42,7 @@ The dates come from official technical reports, API providers, GitHub issues, an
 | GPT-5 Chat| OpenAI | 2024.09.30 | [Source](https://platform.openai.com/docs/models/gpt-5-chat-latest) |
 | GPT-5 mini | OpenAI | 2024.05.31 | [Source](https://platform.openai.com/docs/models/gpt-5-mini) |
 | GPT-5 nano | OpenAI | 2024.05.31 | [Source](https://platform.openai.com/docs/models/gpt-5-nano) |
+| GPT-5.1 | OpenAI | 2024.09.30 | [Source](https://platform.openai.com/docs/models/gpt-5.1) |
 
 
 # Google Models
@@ -56,6 +57,7 @@ The dates come from official technical reports, API providers, GitHub issues, an
 | Gemini 2.0 Pro Experimental | Google | 2025.01 | [Source](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/models) |
 | Gemini 2.5 Flash | Google | 2025.01 | [Source](https://deepmind.google/models/gemini/flash/) |
 | Gemini 2.5 Pro | Google | 2025.01 | [Source](https://deepmind.google/models/gemini/pro/) |
+| Gemini 3 Pro | Google | 2025.01 | [Source](https://deepmind.google/models/gemini/pro/) |
 
 # Anthropic Models
 | Model Name | Company | Cut-off Date | Source |
