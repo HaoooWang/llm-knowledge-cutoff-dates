@@ -58,6 +58,7 @@ The dates come from official technical reports, API providers, GitHub issues, an
 | Gemini 2.5 Flash | Google | 2025.01 | [Source](https://deepmind.google/models/gemini/flash/) |
 | Gemini 2.5 Pro | Google | 2025.01 | [Source](https://deepmind.google/models/gemini/pro/) |
 | Gemini 3 Pro | Google | 2025.01 | [Source](https://deepmind.google/models/gemini/pro/) |
+| Gemini 3 Flash | Google | 2025.01 | [Source](https://deepmind.google/models/gemini/flash/) |
 
 # Anthropic Models
 | Model Name | Company | Cut-off Date | Source |
