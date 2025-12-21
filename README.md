@@ -115,12 +115,17 @@ The dates come from official technical reports, API providers, GitHub issues, an
 | --- | --- | --- | --- |
 | Phi-3-* | Microsoft | 2023.10 | [Source](https://console.cloud.google.com/vertex-ai/publishers/microsoft/model-garden/phi3?pli=1) |
 
+# xAI Models
+| Model Name | Company | Cut-off Date | Source |
+| --- | --- | --- | --- |
+| Grok 2 | xAI | 2023.09 | [Source](https://aimlapi.com/models/grok-2-beta-api) |
+| Grok 3 | xAI | 2024.11 | [Source](https://docs.x.ai/docs/models) |
+| Grok 4 | xAI | 2024.11 | [Source](https://docs.x.ai/docs/models) |
 
 # Unknown Models
 | Model Name | Company | Cut-off Date | Source |
 | --- | --- | --- | --- |
 | Mistral series            | Mistral AI| unknown       |                                                                                                                           |
-| Grok-*                    | xAI       | unknown       |   
 
 
 ## Star History
