@@ -5,13 +5,11 @@ This repository contains a summary of knowledge cut-off dates for various large 
 The dates come from official technical reports, API providers, GitHub issues, and other public resources. Please feel free to add or update any details regarding the knowledge cut-off dates for any model.
 
 # News
-
+* [2025.12] Update more models! Contributions backed by trustworthy and verifiable sources are highly appreciated!
 * [2025.6] More SOTA models are added! We welcome your contributions to keep this list updated!! 
 
 
-
-
-# OpenAI Models
+# OpenAI
 | Model Name | Company | Cut-off Date | Source |
 | --- | --- | --- | --- |
 | GPT-1 | OpenAI | 2018.10 | [Source](https://computercity.com/artificial-intelligence/knowledge-cutoff-dates-llms) |
@@ -43,9 +41,10 @@ The dates come from official technical reports, API providers, GitHub issues, an
 | GPT-5 mini | OpenAI | 2024.05.31 | [Source](https://platform.openai.com/docs/models/gpt-5-mini) |
 | GPT-5 nano | OpenAI | 2024.05.31 | [Source](https://platform.openai.com/docs/models/gpt-5-nano) |
 | GPT-5.1 | OpenAI | 2024.09.30 | [Source](https://platform.openai.com/docs/models/gpt-5.1) |
+| GPT-5.2 Instant, Thinking, Pro | OpenAI | 2025.08 | [Source](https://platform.openai.com/docs/guides/latest-model) |
 
 
-# Google Models
+# Google 
 | Model Name | Company | Cut-off Date | Source |
 | --- | --- | --- | --- |
 | Gemini 1.0 Pro | Google | 2023.02 | [Source](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/models) |
@@ -60,7 +59,7 @@ The dates come from official technical reports, API providers, GitHub issues, an
 | Gemini 3 Pro | Google | 2025.01 | [Source](https://deepmind.google/models/gemini/pro/) |
 | Gemini 3 Flash | Google | 2025.01 | [Source](https://deepmind.google/models/gemini/flash/) |
 
-# Anthropic Models
+# Anthropic
 | Model Name | Company | Cut-off Date | Source |
 | --- | --- | --- | --- |
 | Claude Instant 1.2 | Anthropic | 2023.01 | [Source](https://docsbot.ai/models/claude-instant-1-2) |
@@ -77,7 +76,7 @@ The dates come from official technical reports, API providers, GitHub issues, an
 | Claude 4.5 Sonnet | Anthropic | 2025.07 | [Source](https://docs.anthropic.com/en/docs/about-claude/models/overview) |
 
 
-# Meta Models
+# Meta 
 | Model Name | Company | Cut-off Date | Source |
 | --- | --- | --- | --- |
 | LLama-2-7B,13B,70B | Meta | Pretraining 2022.09, Finetuning  2023.07 | [Source](https://llama-2.ai/llama-2-model-details/) |
@@ -92,7 +91,7 @@ The dates come from official technical reports, API providers, GitHub issues, an
 | Llama-4-Maverick (17Bx128E) | Meta | 2024.08 | [Source](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct) |
 
 
-# Qwen Models
+# Qwen 
 | Model Name | Company | Cut-off Date | Source |
 | --- | --- | --- | --- |
 | Qwen2-7B-Instruct | Qwen | 2023 | [Source](https://docs.rubra.ai/models/Qwen/) |
@@ -100,8 +99,7 @@ The dates come from official technical reports, API providers, GitHub issues, an
 | QwQ-32B | Qwen | 2024.11.28 | [Source](https://llm-stats.com/models/compare/qwen3-30b-a3b-vs-qwq-32b) |
 | Qwen3 | Qwen | Unknown | TBD  |
 
-
-# DeepSeek Models
+# DeepSeek 
 | Model Name | Company | Cut-off Date | Source |
 | --- | --- | --- | --- |
 | DeepSeek-LLM-7B/67B-Chat | DeepSeek | 2023.05 | [Source](https://arxiv.org/pdf/2401.02954v1) |
@@ -110,18 +108,23 @@ The dates come from official technical reports, API providers, GitHub issues, an
 | DeepSeek-V3 | DeepSeek | 2024.12 | [Source](https://explodingtopics.com/blog/list-of-llms)
 | DeepSeek-R1 | DeepSeek | 2025.01 | [Source](https://explodingtopics.com/blog/list-of-llms)
 
-
-# Microsoft Models
+# Microsoft 
 | Model Name | Company | Cut-off Date | Source |
 | --- | --- | --- | --- |
 | Phi-3-* | Microsoft | 2023.10 | [Source](https://console.cloud.google.com/vertex-ai/publishers/microsoft/model-garden/phi3?pli=1) |
 
-# xAI Models
+# xAI 
 | Model Name | Company | Cut-off Date | Source |
 | --- | --- | --- | --- |
 | Grok 2 | xAI | 2023.09 | [Source](https://aimlapi.com/models/grok-2-beta-api) |
 | Grok 3 | xAI | 2024.11 | [Source](https://docs.x.ai/docs/models) |
 | Grok 4 | xAI | 2024.11 | [Source](https://docs.x.ai/docs/models) |
+
+# XiaomiMiMo
+| Model Name | Company | Cut-off Date | Source |
+| --- | --- | --- | --- |
+| MiMo-V2-Flash | Xiaomi | 2024.12 | [Source](https://github.com/XiaomiMiMo/MiMo-V2-Flash) |
+
 
 # Unknown Models
 | Model Name | Company | Cut-off Date | Source |
