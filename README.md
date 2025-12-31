@@ -73,7 +73,9 @@ The dates come from official technical reports, API providers, GitHub issues, an
 | Claude 3.7 Sonnet | Anthropic | 2024.11 | [Source](https://docs.anthropic.com/en/docs/about-claude/models) |
 | Claude 4 Opus | Anthropic | 2025.03 | [Source](https://docs.anthropic.com/en/docs/about-claude/models/overview) |
 | Claude 4 Sonnet | Anthropic | 2025.03 | [Source](https://docs.anthropic.com/en/docs/about-claude/models/overview) |
-| Claude 4.5 Sonnet | Anthropic | 2025.07 | [Source](https://docs.anthropic.com/en/docs/about-claude/models/overview) |
+| Claude 4.5 Sonnet | Anthropic | 2025.01 | [Source](https://web.archive.org/web/20251217180521/https://platform.claude.com/docs/en/about-claude/models/overview#latest-models-comparison) |
+| Claude 4.5 Haiku | Anthropic | 2025.02 | [Source](https://web.archive.org/web/20251217180521/https://platform.claude.com/docs/en/about-claude/models/overview#latest-models-comparison) |
+| Claude 4.5 Opus | Anthropic | 2025.05 | [Source](https://web.archive.org/web/20251217180521/https://platform.claude.com/docs/en/about-claude/models/overview#latest-models-comparison) |
 
 
 # Meta 
