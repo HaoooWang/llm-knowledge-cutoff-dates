@@ -36,6 +36,7 @@ The dates come from official technical reports, API providers, GitHub issues, an
 | o3-mini | OpenAI | 2023.10.01 | [Source](https://platform.openai.com/docs/models/o3-mini) |
 | o3-pro | OpenAI | 2024.06.01 | [Source](https://platform.openai.com/docs/models/o3-pro) |
 | o4-mini | OpenAI | 2024.06.01 | [Source](https://platform.openai.com/docs/models/o4-mini) |
+| gpt-oss | OpenAI | 2024.06.01 | [Source](https://github.com/openai/gpt-oss) |
 | GPT-5 | OpenAI | 2024.10.01 | [Source](https://platform.openai.com/docs/models/gpt-5) |
 | GPT-5 Chat| OpenAI | 2024.09.30 | [Source](https://platform.openai.com/docs/models/gpt-5-chat-latest) |
 | GPT-5 mini | OpenAI | 2024.05.31 | [Source](https://platform.openai.com/docs/models/gpt-5-mini) |
