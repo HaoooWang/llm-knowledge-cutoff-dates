@@ -11,7 +11,7 @@ The dates come from official technical reports, API providers, GitHub issues, an
 
 # OpenAI
 | Model Name | Company | Cut-off | Source |
-|:----------:|:-------:|:------: | :---: |
+|:--------|:-------:|:------: | :---: |
 | GPT-1 | OpenAI | 2018.10 | [Source](https://computercity.com/artificial-intelligence/knowledge-cutoff-dates-llms) |
 | GPT-2 | OpenAI | 2019.11 | [Source](https://computercity.com/artificial-intelligence/knowledge-cutoff-dates-llms) |
 | GPT-3 | OpenAI | 2020.10 | [Source](https://computercity.com/artificial-intelligence/knowledge-cutoff-dates-llms) |
