@@ -55,6 +55,7 @@ The dates come from official technical reports, API providers, GitHub issues, an
 | Gemini 2.0 Flash Thinking | Google | 2024.05 | [Source](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/models) |
 | Gemini 2.0 Flash-Lite | Google | 2024.08 | [Source](https://ai.google.dev/gemini-api/docs/models#gemini-2.0-flash-lite) | 
 | Gemini 2.0 Pro Experimental | Google | 2025.01 | [Source](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/models) |
+| Gemini 2.5 Flash-Lite | Google | 2025.01 | [Source](https://ai.google.dev/gemini-api/docs/models?hl=zh-cn#gemini-2.5-flash-lite) |
 | Gemini 2.5 Flash | Google | 2025.01 | [Source](https://deepmind.google/models/gemini/flash/) |
 | Gemini 2.5 Pro | Google | 2025.01 | [Source](https://deepmind.google/models/gemini/pro/) |
 | Gemini 3 Pro | Google | 2025.01 | [Source](https://deepmind.google/models/gemini/pro/) |
