@@ -60,24 +60,24 @@ The dates come from official technical reports, API providers, GitHub issues, an
 | Gemini 3 Flash | Google | 2025.01 | [Source](https://deepmind.google/models/gemini/flash/) |
 
 # Anthropic
-| Model Name | Company | Cut-off Date | Source |
+| Model Name | Company | Training Data Cut-off Date | Reliable Knowledge Cut-off Date | Source |
 | --- | --- | --- | --- |
-| Claude Instant 1.2 | Anthropic | 2023.01 | [Source](https://docsbot.ai/models/claude-instant-1-2) |
-| Claude 2 | Anthropic | early 2023 | [Source](https://docsbot.ai/models/claude-2) |
-| Claude 2.1 | Anthropic | 2023.01 | [Source](https://docsbot.ai/models/claude-2-1) |
-| Claude 3 Opus | Anthropic | 2023.08 | [Source](https://docs.anthropic.com/en/docs/about-claude/models) |
-| Claude 3 Sonnet | Anthropic | 2023.08 | [Source](https://docs.anthropic.com/en/docs/about-claude/models) |
-| Claude 3 Haiku | Anthropic | 2023.08 | [Source](https://web.archive.org/web/20250829090806/https://docs.anthropic.com/en/docs/about-claude/models/overview) |
-| Claude 3.5 Sonnet | Anthropic | 2024.04 | [Source](https://docs.anthropic.com/en/docs/about-claude/models) |
-| Claude 3.5 Haiku | Anthropic | 2024.07 | [Source](https://web.archive.org/web/20250829090806/https://docs.anthropic.com/en/docs/about-claude/models/overview) |
-| Claude 3.7 Sonnet | Anthropic | 2024.10 | [Source](https://web.archive.org/web/20250829090806/https://docs.anthropic.com/en/docs/about-claude/models/overview) |
-| Claude 4 Opus | Anthropic | 2025.03 | [Source](https://web.archive.org/web/20250829090806/https://docs.anthropic.com/en/docs/about-claude/models/overview) |
-| Claude 4 Sonnet | Anthropic | 2025.03 | [Source](https://web.archive.org/web/20250829090806/https://docs.anthropic.com/en/docs/about-claude/models/overview) |
-| Claude 4.1 Opus | Anthropic | 2025.03 | [Source](https://web.archive.org/web/20250829090806/https://docs.anthropic.com/en/docs/about-claude/models/overview) |
-| Claude 4.5 Sonnet | Anthropic | 2025.01 | [Source](https://web.archive.org/web/20251217180521/https://platform.claude.com/docs/en/about-claude/models/overview#latest-models-comparison) |
-| Claude 4.5 Haiku | Anthropic | 2025.02 | [Source](https://web.archive.org/web/20251217180521/https://platform.claude.com/docs/en/about-claude/models/overview#latest-models-comparison) |
-| Claude 4.5 Opus | Anthropic | 2025.05 | [Source](https://web.archive.org/web/20251217180521/https://platform.claude.com/docs/en/about-claude/models/overview#latest-models-comparison) |
-
+| Claude Instant 1.2 | Anthropic | 2023.01 | - | [Source](https://docsbot.ai/models/claude-instant-1-2) |
+| Claude 2 | Anthropic | early 2023 | - |  [Source](https://docsbot.ai/models/claude-2) |
+| Claude 2.1 | Anthropic | 2023.01 | - |   [Source](https://docsbot.ai/models/claude-2-1) |
+| Claude 3 Opus | Anthropic | 2023.08 | - | [Source](https://docs.anthropic.com/en/docs/about-claude/models) |
+| Claude 3 Sonnet | Anthropic | 2023.08 | - | [Source](https://docs.anthropic.com/en/docs/about-claude/models) |
+| Claude 3 Haiku | Anthropic | 2023.08 | - | [Source](https://web.archive.org/web/20250829090806/https://docs.anthropic.com/en/docs/about-claude/models/overview) |
+| Claude 3.5 Sonnet | Anthropic | 2024.04 | - | [Source](https://docs.anthropic.com/en/docs/about-claude/models) |
+| Claude 3.5 Haiku | Anthropic | 2024.07 | - | [Source](https://web.archive.org/web/20250829090806/https://docs.anthropic.com/en/docs/about-claude/models/overview) |
+| Claude 3.7 Sonnet | Anthropic | 2024.12 | - | [Source](https://web.archive.org/web/20250829090806/https://docs.anthropic.com/en/docs/about-claude/models/overview) |
+| Claude 4 Opus | Anthropic | 2025.03 | - | [Source](https://web.archive.org/web/20250829090806/https://docs.anthropic.com/en/docs/about-claude/models/overview) |
+| Claude 4 Sonnet | Anthropic | 2025.03 | - | [Source](https://web.archive.org/web/20250829090806/https://docs.anthropic.com/en/docs/about-claude/models/overview) |
+| Claude 4.1 Opus | Anthropic | 2025.03 | - | [Source](https://web.archive.org/web/20250829090806/https://docs.anthropic.com/en/docs/about-claude/models/overview) |
+| Claude 4.5 Sonnet | Anthropic | 2025.07 | 2025.01 | [Source](https://web.archive.org/web/20251217180521/https://platform.claude.com/docs/en/about-claude/models/overview#latest-models-comparison) |
+| Claude 4.5 Haiku | Anthropic | 2025.07 | 2025.02 | [Source](https://web.archive.org/web/20251217180521/https://platform.claude.com/docs/en/about-claude/models/overview#latest-models-comparison) |
+| Claude 4.5 Opus | Anthropic | 2025.08 | 2025.05 | [Source](https://web.archive.org/web/20251217180521/https://platform.claude.com/docs/en/about-claude/models/overview#latest-models-comparison) |
+> **Note:** In Claude’s official documentation, “knowledge cutoff” is split into **Reliable knowledge cutoff** and **Training data cutoff**. Reliable knowledge cutoff indicates the date through which a model’s knowledge is most extensive and reliable, while training data cutoff reflects the broader date range of training data used. Therefore, we added the **Reliable Knowledge Cut-off Date** column to align this table with the official definitions. (Reference: https://web.archive.org/web/20251217180521/https://platform.claude.com/docs/en/about-claude/models/overview#latest-models-comparison)
 
 # Meta 
 | Model Name | Company | Cut-off Date | Source |
