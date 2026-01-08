@@ -110,7 +110,7 @@ The dates come from official technical reports, API providers, GitHub issues, an
 | DeepSeek-LLM-7B/67B-Chat | DeepSeek | 2023.05 | [Source](https://arxiv.org/pdf/2401.02954v1) |
 | DeepSeek-Coder | DeepSeek | 2023.03 | [Source](https://github.com/deepseek-ai/DeepSeek-Coder/issues/89) |
 | DeepSeek-Coder-V2         | DeepSeek  | 2023.11       | [Source](https://github.com/deepseek-ai/DeepSeek-Coder-V2/issues/1)                                                       |
-| DeepSeek-V3 | DeepSeek | 2024.12 | [Source](https://explodingtopics.com/blog/list-of-llms)
+| DeepSeek-V3 | DeepSeek | 2024.07 | [Source](https://explodingtopics.com/blog/list-of-llms)
 | DeepSeek-R1 | DeepSeek | 2025.01 | [Source](https://explodingtopics.com/blog/list-of-llms)
 
 # Microsoft 
