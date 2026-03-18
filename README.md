@@ -64,6 +64,9 @@ A curated summary of knowledge cut-off dates for various large language models (
 | GPT-5 nano | OpenAI | 2024.05.31 | [Source](https://web.archive.org/web/20260131125420/https://platform.openai.com/docs/models/gpt-5-nano) |
 | GPT-5.1 | OpenAI | 2024.09.30 | [Source](https://web.archive.org/web/20260131021842/https://platform.openai.com/docs/models/gpt-5.1) |
 | GPT-5.2 Instant, Thinking, Pro | OpenAI | 2025.08 | [Source](https://web.archive.org/web/20260209181732/https://platform.openai.com/docs/guides/latest-model) |
+| GPT-5.3 Chat, Codex | OpenAI | 2025.08 | [Source](https://developers.openai.com/api/docs/models/gpt-5.3-codex) |
+| GPT-5.4 Pro, Nano, Mini | OpenAI | 2025.08 | [Source](https://developers.openai.com/api/docs/models/gpt-5.4) |
+
 
 ## Google
 
