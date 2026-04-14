@@ -176,7 +176,7 @@ A curated summary of knowledge cut-off dates for various large language models (
 
 | Model Name | Company | Cut-off | Source |
 | :--------- | :-----: | :-----: | :---: |
-| Mistral series | Mistral AI | unknown | |
+
 
 ---
 
