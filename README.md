@@ -162,11 +162,21 @@ A curated summary of knowledge cut-off dates for various large language models (
 | :--------- | :-----: | :-----: | :---: |
 | MiMo-V2-Flash | Xiaomi | 2024.12 | [Source](https://github.com/XiaomiMiMo/MiMo-V2-Flash) |
 
+## Mistral AI
+| Model Name | Company | Cut-off | Source |
+| :--------- | :-----: | :-----: | :---: |
+| Ministral 3 (3B, 8B, 14B) | Mistral AI | 2023.10 | [Source](https://web.archive.org/web/20260414210158/https://huggingface.co/mistralai/Ministral-3-3B-Instruct-2512/blob/main/SYSTEM_PROMPT.txt) |
+| Mistral Large 3 | Mistral AI  | 2023.10 | [Source](https://web.archive.org/web/20260414210017/https://huggingface.co/mistralai/Mistral-Large-3-675B-Instruct-2512-NVFP4/blob/main/SYSTEM_PROMPT.txt) |
+| Devstral 2 123B | Mistral AI | 2023.10 | [Source](https://web.archive.org/web/20260414210305/https://huggingface.co/mistralai/Devstral-2-123B-Instruct-2512/blob/main/CHAT_SYSTEM_PROMPT.txt) |
+| Mistral Small 3.1 24B | Mistral AI | 2023.10 | [Source](https://web.archive.org/web/20260414225953/https://huggingface.co/mistralai/Mistral-Small-3.1-24B-Instruct-2503/blob/main/SYSTEM_PROMPT.txt)| 
+| Mistral Small 3.2 24B | Mistral AI | 2023.10 | [Source](https://web.archive.org/web/20260414225744/https://huggingface.co/mistralai/Mistral-Small-3.2-24B-Instruct-2506/blob/main/SYSTEM_PROMPT.txt)| 
+| Mistral Small 4 | Mistral AI | 2024.11 | [Source](https://web.archive.org/web/20260414210436/https://huggingface.co/mistralai/Mistral-Small-4-119B-2603/blob/main/SYSTEM_PROMPT.txt) |
+
 ## Unknown Models
 
 | Model Name | Company | Cut-off | Source |
 | :--------- | :-----: | :-----: | :---: |
-| Mistral series | Mistral AI | unknown | |
+
 
 ---
 
