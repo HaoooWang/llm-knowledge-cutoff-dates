@@ -66,7 +66,7 @@ A curated summary of knowledge cut-off dates for various large language models (
 | GPT-5.2 Instant, Thinking, Pro | OpenAI | 2025.08 | [Source](https://web.archive.org/web/20260209181732/https://platform.openai.com/docs/guides/latest-model) |
 | GPT-5.3 Chat, Codex | OpenAI | 2025.08 | [Source](https://web.archive.org/web/20260317134442/https://developers.openai.com/api/docs/models/gpt-5.3-codex) |
 | GPT-5.4 Pro, Nano, Mini | OpenAI | 2025.08 | [Source](https://web.archive.org/web/20260318054837/https://developers.openai.com/api/docs/models/gpt-5.4) |
-
+| GPT-5.5 Pro | OpenAI | 2025.12 | [Source](https://web.archive.org/web/20260429100524/https://developers.openai.com/api/docs/models/gpt-5.5) |
 
 ## Google
 
@@ -84,6 +84,7 @@ A curated summary of knowledge cut-off dates for various large language models (
 | Gemini 2.5 Pro | Google | 2025.01 | [Source](https://web.archive.org/web/20260312173101/https://deepmind.google/models/gemini/pro/) |
 | Gemini 3 Pro | Google | 2025.01 | [Source](https://web.archive.org/web/20260312173101/https://deepmind.google/models/gemini/pro/) |
 | Gemini 3 Flash | Google | 2025.01 | [Source](https://web.archive.org/web/20260302145238/https://deepmind.google/models/gemini/flash/) |
+| Gemini 3.1 Pro | Google | 2025.01 | [Source](https://web.archive.org/web/20260426112143/https://deepmind.google/models/gemini/pro/) |
 
 ## Anthropic
 
@@ -104,7 +105,9 @@ A curated summary of knowledge cut-off dates for various large language models (
 | Claude 4.5 Sonnet | Anthropic | 2025.07 | 2025.01 | [Source](https://web.archive.org/web/20251217180521/https://platform.claude.com/docs/en/about-claude/models/overview#latest-models-comparison) |
 | Claude 4.5 Haiku | Anthropic | 2025.07 | 2025.02 | [Source](https://web.archive.org/web/20251217180521/https://platform.claude.com/docs/en/about-claude/models/overview#latest-models-comparison) |
 | Claude 4.5 Opus | Anthropic | 2025.08 | 2025.05 | [Source](https://web.archive.org/web/20251217180521/https://platform.claude.com/docs/en/about-claude/models/overview#latest-models-comparison) |
+| Claude 4.6 Sonnet | Anthropic | 2026.01 | 2025.08 | [Source](https://web.archive.org/web/20260428113457/https://platform.claude.com/docs/en/about-claude/models/overview#latest-models-comparison) |
 | Claude 4.6 Opus | Anthropic | 2025.08 | 2025.05 | [Source](https://web.archive.org/web/20260212023515/https://platform.claude.com/docs/en/about-claude/models/overview#latest-models-comparison) |
+| Claude 4.7 Opus | Anthropic | 2026.01 | 2026.01 | [Source](https://web.archive.org/web/20260428113457/https://platform.claude.com/docs/en/about-claude/models/overview#latest-models-comparison) |
 
 > **Note:** In Claude's official documentation, "knowledge cut-off" is split into **Reliable knowledge cut-off** and **Training data cut-off**. Reliable knowledge cutoff indicates the date through which a model's knowledge is most extensive and reliable, while training data cutoff reflects the broader date range of training data used. Therefore, we added the **Reliable Knowledge Cut-off Date** column to align this table with the official definitions. [Reference](https://web.archive.org/web/20251217180521/https://platform.claude.com/docs/en/about-claude/models/overview#latest-models-comparison)
 
