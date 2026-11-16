@@ -33,9 +33,9 @@ A curated summary of knowledge cut-off dates for various large language models (
 
 | Model Name | Company | Cut-off | Source |
 | :--------- | :-----: | :-----: | :---: |
-| GPT-1 | OpenAI | 2018.10 | [Source](https://web.archive.org/web/20251216180712/https://computercity.com/artificial-intelligence/knowledge-cutoff-dates-llms) |
-| GPT-2 | OpenAI | 2019.11 | [Source](https://web.archive.org/web/20251216180712/https://computercity.com/artificial-intelligence/knowledge-cutoff-dates-llms) |
-| GPT-3 | OpenAI | 2020.10 | [Source](https://web.archive.org/web/20251216180712/https://computercity.com/artificial-intelligence/knowledge-cutoff-dates-llms) |
+| GPT-1 | OpenAI | 2014 | [Source 1](https://web.archive.org/web/20210126024542/https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) [Source 2](https://web.archive.org/web/20260828171633/https://arxiv.org/pdf/2105.05241) |
+| GPT-2 | OpenAI | 2017.12.31 | [Source](https://web.archive.org/web/20210206183945/https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) |
+| GPT-3 | OpenAI | 2019.10.24 | [Source 1](https://web.archive.org/web/20261115193659/https://arxiv.org/pdf/2005.14165) [Source 2](https://web.archive.org/web/20260828105721/https://commoncrawl.org/blog/october-2019-crawl-archive-now-available) |
 | GPT-3.5* | OpenAI | 2021.09 | [Source](https://web.archive.org/web/20250604215405/https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models?tabs=python-secure%2Cglobal-standard%2Cstandard-chat-completions#gpt-35-turbo-model-availability) |
 | GPT-4* | OpenAI | 2021.09 | [Source](https://web.archive.org/web/20250604215405/https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models?tabs=python-secure%2Cglobal-standard%2Cstandard-chat-completions#gpt-35-turbo-model-availability) |
 | GPT-4 (1106-preview) | OpenAI | 2023.04 | [Source](https://web.archive.org/web/20250604215405/https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models?tabs=python-secure%2Cglobal-standard%2Cstandard-chat-completions#gpt-35-turbo-model-availability) |
